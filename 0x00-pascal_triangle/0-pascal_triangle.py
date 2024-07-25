@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+'''A module for working with Pascal's triangle.
+'''
 from math import factorial
 def pascal_triangle(n):
     if n <= 0:
